@@ -15,9 +15,12 @@ mainとAudioでmemoryを共有する際、
 
 ##検討
 本sampleにて、  
+
 	key:0  
 	key:1  
+	
 を素早くpushした時のoutputは以下の通り  
+
 	0							press 0 @ main  
 	  
 	b_ThreadFuncFrom_AudioIn	audioIn  
